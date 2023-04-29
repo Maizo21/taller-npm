@@ -1,0 +1,29 @@
+{
+  "name": "taller-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maizo21/taller-npm.git"
+  },
+  "keywords": [
+    "javascript",
+    "node"
+  ],
+  "author": "Hernan Amaiz <hernanamaizp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maizo21/taller-npm/issues"
+  },
+  "homepage": "https://github.com/Maizo21/taller-npm#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.39.0"
+  }
+}
